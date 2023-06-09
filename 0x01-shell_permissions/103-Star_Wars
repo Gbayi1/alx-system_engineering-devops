@@ -1,1 +1,2 @@
-#!/bin/bash\nxdg-open StarWar IV
+#!/bin/bash
+telnet towel.blinkenlights.nl
